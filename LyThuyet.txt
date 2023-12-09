@@ -1,0 +1,5 @@
+Local repository: noi luu tru ma nguon offline
+remote repository: noi luu tru online
+
+
+git init: khoi tao local repository
