@@ -3,3 +3,7 @@ remote repository: noi luu tru online
 
 
 git init: khoi tao local repository
+git add: dua cac thay doi vao staging area
+git commit   dua cac thay doi vao  local repo ,luu lai lich su thay doi
+git mote; ket noi remote voi repo
+git push origin master
